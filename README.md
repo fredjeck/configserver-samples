@@ -9,4 +9,4 @@ Please note that all the values have been encrypted with the following passphras
 
 ## Requests
 
-A Bruno requests collection illustrating ConfigServer various API endpoints
+A [Bruno](https://www.usebruno.com/) requests collection illustrating ConfigServer various API endpoints

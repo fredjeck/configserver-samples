@@ -1,0 +1,15 @@
+{
+    "Position": {
+      "Title": "Editor",
+      "Name": "Joe Smith"
+    },
+    "MyKey": "{enc:JRXT94Chqs91UjUf9V4UbcsEGA3RAhBNh/vBrfKTrevIB4rbhC/B67Lz3m3b1nOxkuGFlLE=}",
+    "Logging": {
+      "LogLevel": {
+        "Default": "Information",
+        "Microsoft": "Warning",
+        "Microsoft.Hosting.Lifetime": "Information"
+      }
+    },
+    "AllowedHosts": "*"
+  }
